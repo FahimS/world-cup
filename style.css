@@ -272,7 +272,7 @@ hr {
 
 /* .................Tablet Mode.............  */
 
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) {
 
     .title-details {
         width: 100%;
@@ -335,4 +335,4 @@ hr {
         font-size: 15px;
         font-weight: bold;
     }
-}
+} */
